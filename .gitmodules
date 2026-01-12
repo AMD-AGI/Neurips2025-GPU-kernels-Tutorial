@@ -1,0 +1,4 @@
+[submodule "src/geak/GEAK-agent"]
+	path = src/geak/GEAK-agent
+	url = https://github.com/AMD-AGI/GEAK-agent.git
+	branch = neurips

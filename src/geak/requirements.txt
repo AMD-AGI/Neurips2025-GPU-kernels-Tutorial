@@ -1,0 +1,18 @@
+# Core LLM APIs
+anthropic>=0.34.0
+openai>=1.40.0
+# Configuration & Environment
+PyYAML>=6.0
+python-dotenv>=1.0.0
+# Data Analysis & Visualization
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+# Agent Runtime
+tqdm>=4.65.0
+tenacity>=8.2.0
+loguru>=0.7.0
+ipykernel>=6.20.0
+# Retrieval
+rank_bm25>=0.2.2
